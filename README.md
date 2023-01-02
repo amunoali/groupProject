@@ -2,7 +2,7 @@
 
 A Simple ToDo App is built using the MVC Architecture, we have also implemented "authorization" so folx can sign up, customize & personalize the app 
 
-**Link to project:**  https://evernest.cyclic.app/ <br>
+**Link to project:**  https://notetaker.cyclic.app/ <br>
 **Demo User** <br>
 email: admin@admin.com <br>
 password: Admin123
